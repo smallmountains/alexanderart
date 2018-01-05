@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #------------------------------------------------------------
-# (c) 2015 - DarkStar
+# (c) 2017 - Smallmountains
 # Based on code from youtube addon
 #------------------------------------------------------------
 import os
@@ -37,7 +37,7 @@ def main_list(params):
 
     plugintools.add_item( 
         #action="", 
-        title="William Alexander - The Hsppy Painter",
+        title="William Alexander - The Happy Painter",
         url="plugin://plugin.video.youtube/user/"+YOUTUBE_CHANNEL_ID+"/",
         thumbnail=icon,
         folder=True )
