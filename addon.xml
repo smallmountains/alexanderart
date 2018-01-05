@@ -2,7 +2,7 @@
 <addon id="plugin.video.alexanderart"
 	name="William Alexander - The Happy Painter"
 	version="0.0.1"
-	provider-name="DarkStar">
+	provider-name="smallmountains">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.addon.common" version="2.0.0"/>
